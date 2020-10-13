@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: 'Cera Pro Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Cera Pro Regular';
+  src: local('Cera Pro Regular'), url(./fonts/CeraPro-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cera Pro Light';
+  src: local('Cera Pro Light'), url('./fonts/CeraPro-Light.woff') format('woff');
+}
+.menu{
+  font-family: 'Cera Pro Light', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+}
+a {
+  color:black;
+}
+a:hover{
+  color:black;
+}
+a.active{
+  font-weight: bold;
+}
+
+.img-wrap{
+  position:relative;
+  width: 100%;
+}
+.img-wrap{
+  position: relative;
+}
+.hidden-text {
+  position: absolute;
+  padding-top: 30%;
+  vertical-align: middle;
+  visibility: hidden;
+  background:rgba(255, 255, 255, 0.8);
+  font-size: 16pt;
+  color:black;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  top: 0;
+}
+
+.img-wrap:hover .hidden-text{
+  visibility: visible;
+}
