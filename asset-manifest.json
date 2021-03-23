@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/natashasavinova-illustrator/static/css/main.f83dbf95.chunk.css",
+    "main.js": "/natashasavinova-illustrator/static/js/main.483c215e.chunk.js",
+    "main.js.map": "/natashasavinova-illustrator/static/js/main.483c215e.chunk.js.map",
+    "runtime-main.js": "/natashasavinova-illustrator/static/js/runtime-main.dcc8fb78.js",
+    "runtime-main.js.map": "/natashasavinova-illustrator/static/js/runtime-main.dcc8fb78.js.map",
+    "static/js/2.8615e259.chunk.js": "/natashasavinova-illustrator/static/js/2.8615e259.chunk.js",
+    "static/js/2.8615e259.chunk.js.map": "/natashasavinova-illustrator/static/js/2.8615e259.chunk.js.map",
+    "index.html": "/natashasavinova-illustrator/index.html",
+    "precache-manifest.4bd58b86dc600e04b279269f647e6d90.js": "/natashasavinova-illustrator/precache-manifest.4bd58b86dc600e04b279269f647e6d90.js",
+    "service-worker.js": "/natashasavinova-illustrator/service-worker.js",
+    "static/css/main.f83dbf95.chunk.css.map": "/natashasavinova-illustrator/static/css/main.f83dbf95.chunk.css.map",
+    "static/js/2.8615e259.chunk.js.LICENSE.txt": "/natashasavinova-illustrator/static/js/2.8615e259.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/natashasavinova-illustrator/static/media/CeraPro-Regular.2558fd3a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc8fb78.js",
+    "static/js/2.8615e259.chunk.js",
+    "static/css/main.f83dbf95.chunk.css",
+    "static/js/main.483c215e.chunk.js"
+  ]
+}
